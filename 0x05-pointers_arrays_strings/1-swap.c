@@ -1,7 +1,7 @@
 /**
- * swap_int swap
- * @a int
- * @b in
+ * swap_int - swap
+ * @a: int
+ * @b: int
  */
 
 void swap_int(int *a, int *b)
