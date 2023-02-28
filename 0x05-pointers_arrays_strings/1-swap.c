@@ -1,6 +1,9 @@
-/*
- * swap_int -  a function that swaps the values of two integers.
+/**
+ * swap_int swap
+ * @a int
+ * @b in
  */
+
 void swap_int(int *a, int *b)
 {
 	int tmp = *a;
