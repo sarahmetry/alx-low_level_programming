@@ -1,3 +1,4 @@
+#include "_putchar.c"
 /**
  * _puts - print
  * @str: char
