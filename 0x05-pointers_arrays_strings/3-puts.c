@@ -1,4 +1,4 @@
-#include "_putchar.c"
+#include "holberton.h"
 /**
  * _puts - print
  * @str: char
