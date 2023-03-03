@@ -1,4 +1,3 @@
-#include "holberton.h"
 
 /**
  * _strcmp - a function that compares two strings.
